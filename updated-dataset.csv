@@ -1,0 +1,290 @@
+Skills,Project,Internship,Certification
+agile,configuration,actionbar,wordpress
+api,integration,toolbar,drupal
+artificial intelligence,cryptography,tablayout,joomla
+big data,cybersecurity,navigationview,magento
+blockchain,analysis,drawerlayout,shopify
+business,mining,coordinatorlayout,django
+cloud,modeling,collapsingtoolbarlayout,flask
+debugging,science,appbarlayout,rails
+collaboration,visualization,cardview,express
+graphics,administration,floatingactionbutton,sinatra
+vision,design,progressbar,asp.net
+configuration,deep learning,ratingbar,node
+integration,devops,seekbar,socket
+cryptography,distributed,switch,rest
+cybersecurity,documentation,togglebutton,graphql
+analysis,resource,checkbox,json
+mining,information,radiobutton,xml
+modeling,infrastructure,edittext,ajax
+science,internet of things,textinputlayout,dom
+visualization,java,autocompletetextview,seo
+administration,javascript,multiautocompletetextview,ux
+design,linux,spinner,ui
+deep learning,machine,imageview,responsive
+devops,mobile,imagebutton,frontend
+distributed,natural,button,backend
+documentation,object-oriented,textview,fullstack
+resource,operating,chronometer,serverless
+information,predictive,digitalclock,webpack
+infrastructure,problem management,analogclock,parcel
+internet of things,protocols,videoview,babel
+java,quality,webview,less
+javascript,react,mapview,scss
+linux,redux,googlemap,postcss
+machine,relational,supportmapfragment,webgl
+mobile,restful,sensor,websockets
+natural,scrum,accelerometer,android
+object-oriented,security,compass,sdk
+operating,software engineering,gyroscope,gradle
+predictive,testing,light,activity
+problem management,sql,proximity,fragment
+protocols,system,fingerprint,intent
+quality,technical,biometric,broadcastreceiver
+react,tensorflow,face,contentprovider
+redux,troubleshooting,barcode,view
+relational,experience,nfc,layout
+restful,interface,bluetooth,adapter
+scrum,virtualization,wifi,asynctask
+security,web services,location,listview
+software engineering,data,geocoder,recyclerview
+testing,storage,googleplayservices,gridview
+sql,backup,computer science,customview
+system,recovery,information technology,menu
+technical,migration,engineering,dialog
+tensorflow,network design,networking,notification
+troubleshooting,monitoring,hardware,alertdialog
+experience,cloud integration,software,toast
+interface,application maintenance,programming,snackbar
+virtualization,deployment,algorithms,actionbar
+web services,support,data structures,toolbar
+data,consulting,theory,tablayout
+storage,project,management,navigationview
+backup,strategy,maintenance,drawerlayout
+recovery,policies,communication,coordinatorlayout
+migration,governance,interpersonal,collapsingtoolbarlayout
+network design,compliance,leadership,appbarlayout
+monitoring,risk,ethics,cardview
+cloud integration,asset,law,floatingactionbutton
+application maintenance,vendor,economics,progressbar
+deployment,service,marketing,ratingbar
+support,operations,finance,seekbar
+consulting,performance,accounting,switch
+project,change,human resources management,togglebutton
+strategy,architecture,psychology,checkbox
+policies,development,sociology,radiobutton
+governance,graphic,anthropology,edittext
+compliance,artificial,politics,textinputlayout
+risk,c++,philosophy,autocompletetextview
+asset,python,education,multiautocompletetextview
+vendor,c#,art,spinner
+service,php,music,imageview
+operations,swift,literature,imagebutton
+performance,ruby,film,button
+change,go,theatre,textview
+architecture,kotlin,television,chronometer
+development,objective-c,radio,digitalclock
+graphic,assembly,journalism,analogclock
+artificial,bash,photography,videoview
+c++,groovy,graphic design,webview
+python,visual basic,fashion,mapview
+c#,r,interior,googlemap
+php,scala,landscape,supportmapfragment
+swift,delphi,industrial,sensor
+ruby,ruby on rails,product,accelerometer
+go,typescript,transportation,compass
+kotlin,f#,game,gyroscope
+objective-c,rust,animation,light
+assembly,d,multimedia,proximity
+bash,haskell,web,fingerprint
+groovy,elixir,analytics,biometric
+visual basic,elm,machine learning,face
+r,erlang,robotics,barcode
+scala,julia,virtual,nfc
+delphi,luna,augmented reality,bluetooth
+ruby on rails,ocaml,playstore,wifi
+typescript,perl,shopify,location
+f#,powershell,django,geocoder
+rust,purescript,flask,googleplayservices
+d,reason,rails,computer science
+haskell,tcl,express,information technology
+elixir,verilog,sinatra,engineering
+elm,vhdl,asp.net,networking
+erlang,html,node,hardware
+julia,css,socket,software
+luna,angular,rest,programming
+ocaml,vue,graphql,algorithms
+perl,jquery,json,data structures
+powershell,bootstrap,xml,theory
+purescript,wordpress,ajax,management
+reason,drupal,dom,maintenance
+tcl,joomla,seo,communication
+verilog,magento,ux,interpersonal
+vhdl,shopify,ui,leadership
+html,django,responsive,ethics
+css,flask,frontend,law
+angular,rails,backend,economics
+vue,express,fullstack,marketing
+jquery,sinatra,serverless,finance
+bootstrap,asp.net,webpack,accounting
+wordpress,node,parcel,human resources management
+drupal,socket,babel,psychology
+joomla,rest,less,sociology
+magento,graphql,scss,anthropology
+shopify,json,postcss,politics
+django,xml,webgl,philosophy
+flask,ajax,websockets,education
+rails,dom,android,art
+express,seo,sdk,music
+sinatra,ux,gradle,literature
+asp.net,ui,activity,film
+node,responsive,fragment,theatre
+socket,frontend,intent,television
+rest,backend,broadcastreceiver,radio
+graphql,fullstack,contentprovider,journalism
+json,serverless,view,photography
+xml,webpack,layout,graphic design
+ajax,parcel,adapter,fashion
+dom,babel,asynctask,interior
+seo,less,listview,landscape
+ux,scss,recyclerview,industrial
+ui,postcss,gridview,product
+responsive,webgl,customview,transportation
+frontend,websockets,menu,game
+backend,android,dialog,animation
+fullstack,sdk,notification,multimedia
+serverless,gradle,alertdialog,web
+webpack,activity,toast,analytics
+parcel,fragment,snackbar,machine learning
+babel,intent,agile,robotics
+less,broadcastreceiver,api,virtual
+scss,contentprovider,artificial intelligence,augmented reality
+postcss,view,big data,playstore
+webgl,layout,blockchain,agile
+websockets,adapter,business,api
+android,asynctask,cloud,artificial intelligence
+sdk,listview,debugging,big data
+gradle,recyclerview,collaboration,blockchain
+activity,gridview,graphics,business
+fragment,customview,vision,cloud
+intent,menu,configuration,debugging
+broadcastreceiver,dialog,integration,collaboration
+contentprovider,notification,cryptography,graphics
+view,alertdialog,cybersecurity,vision
+layout,toast,analysis,configuration
+adapter,snackbar,mining,integration
+asynctask,actionbar,modeling,cryptography
+listview,toolbar,science,cybersecurity
+recyclerview,tablayout,visualization,analysis
+gridview,navigationview,administration,mining
+customview,drawerlayout,design,modeling
+menu,coordinatorlayout,deep learning,science
+dialog,collapsingtoolbarlayout,devops,visualization
+notification,appbarlayout,distributed,administration
+alertdialog,cardview,documentation,design
+toast,floatingactionbutton,resource,deep learning
+snackbar,progressbar,information,devops
+actionbar,ratingbar,infrastructure,distributed
+toolbar,seekbar,internet of things,documentation
+tablayout,switch,java,resource
+navigationview,togglebutton,javascript,information
+drawerlayout,checkbox,linux,infrastructure
+coordinatorlayout,radiobutton,machine,internet of things
+collapsingtoolbarlayout,edittext,mobile,java
+appbarlayout,textinputlayout,natural,javascript
+cardview,autocompletetextview,object-oriented,linux
+floatingactionbutton,multiautocompletetextview,operating,machine
+progressbar,spinner,predictive,mobile
+ratingbar,imageview,problem management,natural
+seekbar,imagebutton,protocols,object-oriented
+switch,button,quality,operating
+togglebutton,textview,react,predictive
+checkbox,chronometer,redux,problem management
+radiobutton,digitalclock,relational,protocols
+edittext,analogclock,restful,quality
+textinputlayout,videoview,scrum,react
+autocompletetextview,webview,security,redux
+multiautocompletetextview,mapview,software engineering,relational
+spinner,googlemap,testing,restful
+imageview,supportmapfragment,sql,scrum
+imagebutton,sensor,system,security
+button,accelerometer,technical,software engineering
+textview,compass,tensorflow,testing
+chronometer,gyroscope,troubleshooting,sql
+digitalclock,light,experience,system
+analogclock,proximity,interface,technical
+videoview,fingerprint,virtualization,tensorflow
+webview,biometric,web services,troubleshooting
+mapview,face,data,experience
+googlemap,barcode,storage,interface
+supportmapfragment,nfc,backup,virtualization
+sensor,bluetooth,recovery,web services
+accelerometer,wifi,migration,data
+compass,location,network design,storage
+gyroscope,geocoder,monitoring,backup
+light,googleplayservices,cloud integration,recovery
+proximity,computer science,application maintenance,migration
+fingerprint,information technology,deployment,network design
+biometric,engineering,support,monitoring
+face,networking,consulting,cloud integration
+barcode,hardware,project,application maintenance
+nfc,software,strategy,deployment
+bluetooth,programming,policies,support
+wifi,algorithms,governance,consulting
+location,data structures,compliance,project
+geocoder,theory,risk,strategy
+googleplayservices,management,asset,policies
+computer science,maintenance,vendor,governance
+information technology,communication,service,compliance
+engineering,interpersonal,operations,risk
+networking,leadership,performance,asset
+hardware,ethics,change,vendor
+software,law,architecture,service
+programming,economics,development,operations
+algorithms,marketing,graphic,performance
+data structures,finance,artificial,change
+theory,accounting,c++,architecture
+management,human resources management,python,development
+maintenance,psychology,c#,graphic
+communication,sociology,php,artificial
+interpersonal,anthropology,swift,c++
+leadership,politics,ruby,python
+ethics,philosophy,go,c#
+law,education,kotlin,php
+economics,art,objective-c,swift
+marketing,music,assembly,ruby
+finance,literature,bash,go
+accounting,film,groovy,kotlin
+human resources management,theatre,visual basic,objective-c
+psychology,television,r,assembly
+sociology,radio,scala,bash
+anthropology,journalism,delphi,groovy
+politics,photography,ruby on rails,visual basic
+philosophy,graphic design,typescript,r
+education,fashion,f#,scala
+art,interior,rust,delphi
+music,landscape,d,ruby on rails
+literature,industrial,haskell,typescript
+film,product,elixir,f#
+theatre,transportation,elm,rust
+television,game,erlang,d
+radio,animation,julia,haskell
+journalism,multimedia,luna,elixir
+photography,web,ocaml,elm
+graphic design,analytics,perl,erlang
+fashion,machine learning,powershell,julia
+interior,robotics,purescript,luna
+landscape,virtual,reason,ocaml
+industrial,augmented reality,tcl,perl
+product,playstore,verilog,powershell
+transportation,agile,vhdl,purescript
+game,api,html,reason
+animation,artificial intelligence,css,tcl
+multimedia,big data,angular,verilog
+web,blockchain,vue,vhdl
+analytics,business,jquery,html
+machine learning,cloud,bootstrap,css
+robotics,debugging,wordpress,angular
+virtual,collaboration,drupal,vue
+augmented reality,graphics,joomla,jquery
+playstore,vision,magento,bootstrap
